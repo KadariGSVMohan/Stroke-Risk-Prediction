@@ -46,15 +46,11 @@ This app uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fe
    git clone https://github.com/your-username/stroke-risk-prediction.git
    cd stroke-risk-prediction
 ````
-
 2. Install dependencies:
-
    ```bash
    pip install -r requirements.txt
    ```
-
 3. Run the Streamlit app:
-
    ```bash
    streamlit run app.py
    ```
