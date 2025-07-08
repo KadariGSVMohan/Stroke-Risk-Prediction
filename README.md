@@ -1,9 +1,8 @@
-````markdown
+
 # 🧠 Stroke Risk Prediction App
 
 A **Streamlit-powered web application** that predicts the risk of stroke using machine learning. Users can input key medical parameters and receive real-time stroke risk assessments along with a downloadable PDF health report.
 
----
 ## 🚀 Features
 
 - 🔍 **Stroke Risk Prediction** using a trained ML model (Logistic Regression)
@@ -12,7 +11,6 @@ A **Streamlit-powered web application** that predicts the risk of stroke using m
 - ℹ️ **Informative Tabs** for app usage and dataset understanding
 - 💡 Built for awareness and early risk screening
 
----
 ## 🧬 Input Features
 
 The app uses the following health indicators:
@@ -27,13 +25,9 @@ The app uses the following health indicators:
 - BMI
 - Smoking Status
 
----
-
 ## 🗂 Dataset
 
 This app uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) from Kaggle. It contains health records of individuals along with a binary target indicating the occurrence of stroke.
-
----
 
 ## 🛠 Tech Stack
 
@@ -65,8 +59,6 @@ This app uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fe
    streamlit run app.py
    ```
 
----
-
 ## 📄 Folder Structure
 
 ```
@@ -85,21 +77,6 @@ stroke-risk-prediction/
 > ⚠️ This tool is built for **educational and awareness purposes** only. It is **not a substitute for professional medical advice**. Always consult a certified healthcare provider for diagnosis or treatment.
 
 ---
-
-## 📬 Contact
-
-For questions or collaborations, reach out at:
-📧 [yourname@example.com](mailto:yourname@example.com)
-📍 GitHub: [@your-username](https://github.com/your-username)
-
----
-
-⭐ If you find this project helpful, consider starring the repository!
-
-```
-
----
-
 Let me know if you want:
 - Badges (e.g., Python version, license)
 - A version with screenshots
