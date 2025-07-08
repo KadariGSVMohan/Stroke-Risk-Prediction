@@ -49,11 +49,11 @@ This app uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fe
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
+```
 3. Run the Streamlit app:
    ```bash
    streamlit run app.py
-   ```
+```
 
 ## 📄 Folder Structure
 
